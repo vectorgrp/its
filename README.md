@@ -1,5 +1,5 @@
 # Intelligent Traffic Services (ITS)
-ITS is an inovation project of Porsche, the state capital Stuttgart (BW) and Vector Informatik to improve traffic flow through digitalization.
+ITS is an innovation project by Porsche, the state capital Stuttgart (BW) and Vector Informatik to improve the flow of traffic through digitization.
 
 ## Partners
 * Porsche AG
